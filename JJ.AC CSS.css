@@ -1,0 +1,38 @@
+body{
+     background-image: url('calm.png');
+    font-family:arial;
+    background-color:sky blue;
+    
+}
+
+div.a{
+    border-style:dotted;
+    border-width:medium;
+    border-radius:30px;
+    margin:auto;
+    padding:10px;
+}
+
+div.b{
+    border-style:dotted;
+    border-width:medium;
+    border-radius:30px;
+    margin:auto;
+    padding:10px;
+}
+
+div.c{
+    border-style:dotted;
+    border-width:medium;
+    border-radius:30px;
+    margin:auto;
+    padding:10px;
+}
+
+div.d{
+    border-style:dotted;
+    border-width:medium;
+    border-radius:30px;
+    margin:auto;
+    padding:10px;
+}
